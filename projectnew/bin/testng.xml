@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="classes">
+  <test name="Test">
+    <classes>
+      <class name="learnTestng.NewTest"/>
+      <class name="learnTestng.NewTest2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
